@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="{{{lang_code}}}">
+<head>
+    <meta property="og:url" content="https://gikken.co/mate-translate{{lang_url_tag}}"/>
+    <link rel="canonical" href="https://gikken.co/mate-translate{{lang_url_tag}}"/>
+	{{{meta_tags}}}
+</head>
+<body>
+	<div class="site-layout centered">
+
+        {{{header}}}
+
+	<div class="info-block">
+            <h1>{{{pitch_short}}}</h1>
+            <p><b>{{{desc}}}</b></p>
+
+            <div class="download-buttons">
+                <a class="cta-button universal-download-button" href="/mate-translate/download{{lang_url_tag}}">{{footer_download}}</a>
+            </div>
+        </div>
+
+        <div class="preview-images index">
+            <img class="mac-first" srcset="/www_mate/img/localized/en/mac-preview.png 2x">
+            <img class="safari-first" srcset="/www_mate/img/localized/en/safari-preview.png 2x">
+            <img class="deviceless-iphone-first" srcset="/www_mate/img/localized/en/deviceless-iphone-preview.png 2x">
+        </div>
+
+        <div class="info-block">
+            <h2>{{headline_features}}</h2>
+
+            <div class="features">
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-translations.png 2x">
+                    <div class="meta">{{{feature_topnotch_translations}}}</div>
+                </div>
+
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-languages.png 2x">
+                    <div class="meta">{{{feature_103_languages}}}</div>
+                </div>
+
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-pronunciation.png 2x">
+                    <div class="meta">{{{feature_pronunciation}}}</div>
+                </div>
+
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-sync.png 2x">
+                    <div class="meta">{{{feature_sync}}}</div>
+                </div>
+
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-phrasebook.png 2x">
+                    <div class="meta">{{{feature_phrasebook}}}</div>
+                </div>
+
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-words.png 2x">
+                    <div class="meta">{{{feature_rich_data_about_words}}}</div>
+                </div>
+
+                <div class="feature">
+                    <img srcset="/www_mate/img/elements/f-dark.png 2x">
+                    <div class="meta">{{{feature_darkmode}}}</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-block">
+            <h2>{{{headline_about}}}</h2>
+            <p>{{{about_text}}}</p>
+        </div>
+
+        <div class="info-block">
+            <h2>{{{headline_screenshots}}}</h2>
+
+            <div class="tabber">
+                <div class="tabber-selector active" data-tab="1">iOS</div>
+                <div class="tabber-selector" data-tab="2">Mac</div>
+            </div>
+
+            <div class="tab t-1 gallery">
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-iphone-1.png 2x">
+                </div>
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-iphone-2.png 2x">
+                </div>
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-iphone-3.png 2x">
+                </div>
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-iphone-4.png 2x">
+                </div>
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-iphone-5.png 2x">
+                </div>
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-iphone-6.png 2x">
+                </div>
+            </div>
+
+            <div class="tab t-2 gallery">
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-mac-1.png 2x">
+                </div>
+                <div class="image">
+                    <img srcset="/www_mate/img/localized/en/s-mac-2.png 2x">
+                </div>
+            </div>
+        </div>
+
+        <div class="info-block">
+            <h2>{{{headline_top_rated_by_users}}}</h2>
+            <p>{{{top_rated_by_users_text}}}</p>
+
+            <div class="reviews">
+                {{#reviews}}
+                    <div class="review">
+                        <div class="platform">{{platform}}</div>
+                        <div class="stars s-{{stars}}"></div>
+                        <div class="title">{{title}}</div>
+                        <div class="text">{{text}}</div>
+                        <div class="author">{{author}}, <a target="_blank" href="{{link}}">{{time}}</a></div>
+                    </div>
+                {{/reviews}}
+            </div>
+        </div>
+
+        <div class="info-block">
+            <h2>{{{headline_get_now}}}</h2>
+            <p>{{{get_now_text}}}</p>
+        </div>
+
+        <div class="download-buttons">
+            <a class="cta-button deep-down universal-download-button" href="/mate-translate/download{{lang_url_tag}}">{{footer_download}}</a>
+        </div>
+
+		{{{footer}}}
+	</div>
+        {{{trailing_tags}}}
+</body>
+</html>

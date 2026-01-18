@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "mate",
+    "navigation": {
+      "home": "Startseite",
+      "apps": "Apps",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "Blog",
+      "help_center": "Hilfe",
+      "contact": "Kontakt"
+    },
+    "mobile_navigation": {
+      "home": "Startseite",
+      "apps": "Apps",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "Blog",
+      "help_center": "Hilfe",
+      "contact": "Kontakt"
+    }
+  },
+  "hero": {
+    "headline": "Die Übersetzer-App, die du lieben wirst.",
+    "subheadline": "Mate ist wunderschön gestaltet für iOS, macOS und deinen Lieblingsbrowser. Übersetze sofort alles zwischen 103 Sprachen.",
+    "cta_button": "KOSTENLOS TESTEN"
+  },
+  "features": {
+    "title": "Funktionen",
+    "items": {
+      "accuracy": {
+        "title": "Höchste Übersetzungsgenauigkeit.",
+        "description": "Menschliche Übersetzer haben ihren Meister gefunden – oder besser gesagt, ihren Mate."
+      },
+      "languages": {
+        "title": "103 Sprachen.",
+        "description": "Englisch, Spanisch, Französisch, Deutsch, Japanisch, Chinesisch, Arabisch und viele mehr. Sogar Luxemburgisch. Zulu? Ja. <link>Alle ansehen.</link>"
+      },
+      "pronunciation": {
+        "title": "Perfekte Aussprache.",
+        "description": "Mate spricht dir die Übersetzungen vor, inklusive Akzent. Es zeigt auch intuitive Lautschrift an."
+      },
+      "sync": {
+        "title": "Plattformübergreifende Synchronisation.",
+        "description": "Halte deinen Übersetzungsverlauf und gespeicherte Phrasen auf allen Geräten aktuell."
+      },
+      "phrasebook": {
+        "title": "Sprachführer.",
+        "description": "Lerne Sprachen schneller, indem du Phrasen speicherst und kategorisierst. Dein Spickzettel für Reisen."
+      },
+      "reference": {
+        "title": "Umfassendes Nachschlagewerk.",
+        "description": "Sieh dir Wortgeschlechter an und scrolle durch Synonyme, um genau das zu sagen, was du meinst."
+      },
+      "dark_mode": {
+        "title": "Dunkelmodus.",
+        "description": "Hell- und Dunkelmodi, individuell gestaltet für ein völlig natives Gefühl."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "Screenshots",
+    "ios": "iOS",
+    "mac": "Mac"
+  },
+  "reviews": {
+    "headline": "Top-bewertet von 1.000.000 Nutzern",
+    "subheadline": "Mates Design bleibt frisch, ist aber kein Neuling. Viele Leute lieben es, Mate jeden Tag zu benutzen.",
+    "proof": "Das sagen echte Nutzer über Mate:"
+  },
+  "about": {
+    "title": "Über uns",
+    "description_1": "<bold>Mate ist für diejenigen gemacht, die ständig übersetzen.</bold> Sicher, es gibt Websites, die das erledigen, aber keine ist so tief integriert wie Mate. Es ist so geschmeidig zu bedienen. Mate fügt sich in deinen Workflow ein, als würdest du gar nicht übersetzen.",
+    "description_2": "<bold>Kein Browser-Wechsel. Keine Unterbrechungen. Es ist sofort da.</bold> Direkt in deiner Menüleiste, nur einen Klick entfernt. Da, wenn du es brauchst, und sofort wieder weg.",
+    "description_3": "<bold>Übersetze Webseiten mit einem schnellen Klick dank nahtloser Erweiterungen.</bold> E-Mails, Notizen und Nachrichten funktionieren auch. Überall dort, wo Text steht. Und auf iOS funktioniert Mate offline. Es ist gebaut, um gut auszusehen und schnell zu arbeiten."
+  },
+  "bottom_cta": {
+    "headline": "Hol dir Mate jetzt",
+    "subheadline": "Lebe in Sprachen und sieh dabei gut aus. Arbeite schnell, kommuniziere klar und lerne Wörter auf allen großen Plattformen. Sei nie wieder 'Lost in Translation'!",
+    "cta_button": "KOSTENLOS TESTEN"
+  },
+  "footer": {
+    "columns": {
+      "apps": {
+        "title": "APPS",
+        "items": {
+          "iphone_ipad": "iPhone + iPad",
+          "mac_safari": "Mac + Safari",
+          "google_chrome": "Google Chrome",
+          "mozilla_firefox": "Mozilla Firefox",
+          "opera": "Opera",
+          "microsoft_edge": "Microsoft Edge",
+          "arc_browser": "Arc Browser",
+          "brave_browser": "Brave Browser"
+        },
+        "links": {
+          "help_center": "Hilfe",
+          "release_notes": "Versionshinweise",
+          "download": "Download"
+        }
+      },
+      "support": {
+        "title": "SUPPORT",
+        "items": {
+          "download": "Download",
+          "help_center": "Hilfe",
+          "supported_languages": "Unterstützte Sprachen",
+          "request_refund": "Rückerstattung anfordern",
+          "restore_password": "Passwort wiederherstellen",
+          "restore_serial_codes": "Seriennummern wiederherstellen",
+          "privacy_policy": "Datenschutzerklärung",
+          "student_discounts": "Studentenrabatte"
+        }
+      },
+      "stay_in_touch": {
+        "title": "BLEIB IN KONTAKT",
+        "items": {
+          "contact": "Kontakt",
+          "twitter": "Twitter",
+          "blog": "Blog"
+        }
+      },
+      "site_language": {
+        "title": "SPRACHE"
+      },
+      "free_services": {
+        "title": "KOSTENLOSE DIENSTE",
+        "items": {
+          "web_translator": "Web-Übersetzer",
+          "verb_conjugator": "Verb-Konjugator",
+          "der_die_das_lookup": "Der Die Das Suche",
+          "usage_examples": "Anwendungsbeispiele"
+        }
+      }
+    },
+    "branding": {
+      "made_by": "MADE BY GIKKEN"
+    }
+  }
+}

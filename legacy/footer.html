@@ -1,0 +1,95 @@
+<div class="footer">
+         <div class="col inline-links">
+                <div class="col-title">{{menu_apps}}</div>
+
+                <b>{{menu_apps_ios}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002275580-Mate-for-iOS">{{menu_helpcenter}}</a>, <a href="/mate-translate/release-notes/ios{{lang_url_tag}}">{{footer_releasenotes}}</a>, <a href="/mate-translate/ios{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+
+                <b>{{menu_apps_mac}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300379-Mate-for-macOS">{{menu_helpcenter}}</a>, <a href="/mate-translate/release-notes/mac{{lang_url_tag}}">{{footer_releasenotes}}</a>, <a href="/mate-translate/mac{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+
+                <b>{{chrome_full}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300399-Mate-for-Chrome-Opera-Firefox">{{menu_helpcenter}}</a>, <a href="/mate-translate/chrome{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+
+                <b>{{firefox_full}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300399-Mate-for-Chrome-Opera-Firefox">{{menu_helpcenter}}</a>, <a href="/mate-translate/firefox{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+
+                <b>{{opera_full}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300399-Mate-for-Chrome-Opera-Firefox">{{menu_helpcenter}}</a>, <a href="/mate-translate/opera{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+                
+                <b>{{edge_full}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300399-Mate-for-Chrome-Opera-Firefox">{{menu_helpcenter}}</a>, <a href="/mate-translate/edge{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+
+                <b>{{arc_full}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300399-Mate-for-Chrome-Opera-Firefox">{{menu_helpcenter}}</a>, <a href="/mate-translate/arc{{lang_url_tag}}">{{footer_download}}</a>
+                <br><br>
+
+                <b>{{brave_full}}</b>
+                <br>
+                <a rel="noopener" target="_blank" href="https://help.gikken.co/hc/en-us/categories/360002300399-Mate-for-Chrome-Opera-Firefox">{{menu_helpcenter}}</a>, <a href="/mate-translate/brave{{lang_url_tag}}">{{footer_download}}</a>
+        </div>
+
+        <div class="col">
+                <div class="col-title">{{footer_support}}</div>
+
+                <a href="/mate-translate/download{{lang_url_tag}}">{{footer_download}}</a>
+                <a rel="noopener" href="https://help.gikken.co/hc/en-us" target="_blank">{{menu_helpcenter}}</a>
+                <a href="/mate-translate/languages{{lang_url_tag}}">{{footer_languages}}</a>
+                <a rel="noopener" href="https://help.gikken.co/hc/en-us/articles/360011292459-How-can-I-get-a-refund">{{footer_refund}}</a>
+                <a href="/mate-translate/forgot-password{{lang_url_tag}}">{{footer_password}}</a>
+                <a href="/mate-translate/restore-serial-codes{{lang_url_tag}}">{{footer_restore_serials}}</a>
+                <a href="/mate-translate/privacy{{lang_url_tag}}">{{footer_privacy}}</a>
+                <a href="/mate-translate/students{{lang_url_tag}}">{{footer_students}}</a>
+        </div>
+
+        <div class="col last-col">
+                <div class="col-title">{{footer_stay_in_touch}}</div>
+
+                <a href="/mate-translate/contact{{lang_url_tag}}">{{menu_contact}}</a>
+                <a rel="noopener" target="_blank" href="https://twitter.com/MateTranslate">{{footer_twitter}}</a>
+                <a href="https://gikken.co/mate-translate/blog/">{{footer_blog}}</a>
+                <!--<a target="_blank" href="/work-with-us">{{footer_join}}</a>-->
+
+                <br><br>
+                <div class="col-title">{{footer_site_language}}</div>
+
+                <select class="site-lang-selector">
+                        {{#supported_langs}}
+                        <option value="{{code}}">{{name}}</option>
+                        {{/supported_langs}}
+                </select>
+
+                <ul style="display: none;" class="all-langs">
+                        {{#localized_urls}}
+                                <!-- Web Translator -->
+                                <li><a href="{{url}}" data-lang="{{lang}}">{{url}}</a></li>
+                        {{/localized_urls}}
+                        {{^localized_urls}}
+                                {{#supported_langs}}
+                                <li><a data-lang="{{code}}">{{name}}</a></li>
+                                {{/supported_langs}}
+                        {{/localized_urls}}
+                </ul>
+                
+                <br><br>
+                <div class="col-title">{{footer_online_free_services}}</div>
+                <a href="/mate-translate/translator/">{{menu_web_translator}}</a>
+                <a href="/mate-translate/conjugation/">{{menu_web_conjugations}}</a>
+                <a href="/mate-translate/der-die-das/">{{menu_web_derdiedas}}</a>
+                <a href="/mate-translate/sentences/">{{menu_example_sentences}}</a>
+        </div>
+        <a href="/?ref=mate" class="makers" aria-label="Gikken homepage"></a>
+</div>

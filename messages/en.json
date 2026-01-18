@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "mate",
+    "navigation": {
+      "home": "home",
+      "apps": "apps",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "blog",
+      "help_center": "help center",
+      "contact": "contact"
+    },
+    "mobile_navigation": {
+      "home": "Home",
+      "apps": "Apps",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "Blog",
+      "help_center": "Help center",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "headline": "The translator app you'll love.",
+    "subheadline": "Mate is made beautifully for iOS, macOS, and your favorite browser. Instantly translate anything between 103 languages.",
+    "cta_button": "TRY FOR FREE"
+  },
+  "features": {
+    "title": "Features",
+    "items": {
+      "accuracy": {
+        "title": "Highest-accuracy translation.",
+        "description": "Human translators have met their match, or rather, met their Mate."
+      },
+      "languages": {
+        "title": "103 languages.",
+        "description": "English, Spanish, French, German, Japanese, Chinese, Arabic, and tonnes more. Luxembourgish, even. Zulu? Yep. <link>See them all.</link>"
+      },
+      "pronunciation": {
+        "title": "Perfect pronunciation.",
+        "description": "Mate speaks translations directly to you, accent and all. It also displays intuitive phonetics."
+      },
+      "sync": {
+        "title": "Cross-platform sync.",
+        "description": "Keep your translation history and saved phrases up to date between all of your devices."
+      },
+      "phrasebook": {
+        "title": "Phrasebook.",
+        "description": "Learn languages faster by saving and categorizing phrases. Keep a travel cheat-sheet."
+      },
+      "reference": {
+        "title": "Full-on reference.",
+        "description": "See word genders and scroll through synonyms to say what you mean and mean what you say."
+      },
+      "dark_mode": {
+        "title": "Darkness.",
+        "description": "Light and dark modes designed individually for a fully native feel."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "Screenshots",
+    "ios": "IOS",
+    "mac": "Mac"
+  },
+  "reviews": {
+    "headline": "Top-rated by 1,000,000 users",
+    "subheadline": "Mate's designs stay fresh but it's no translation newcomer. A whole lot of folks love using Mate every day.",
+    "proof": "Here's what real users say about Mate:"
+  },
+  "about": {
+    "title": "About",
+    "description_1": "<bold>Mate is made for those who translate all the time.</bold> Sure there are sites that get the job done, but none are as deeply integrated as Mate. It's so smooth to use. Mate blends into your workflow so it feels like you're not translating at all.",
+    "description_2": "<bold>No browser switching. No interruptions. It's instant.</bold> Right there in your menu bar, just a shortcut away. There when you need it and then gone in an instant.",
+    "description_3": "<bold>Translate web pages in one quick click with seamless extensions.</bold> Emails, notes, and messages work too. Anywhere text resides. And on iOS, Mate works offline. It's built to look good and work fast."
+  },
+  "bottom_cta": {
+    "headline": "Get Mate now",
+    "subheadline": "Live in languages and look good doing it. Work fast, communicate clearly, and learn words on all major platforms. Never be lost in translation again!",
+    "cta_button": "TRY FOR FREE"
+  },
+  "footer": {
+    "columns": {
+      "apps": {
+        "title": "APPS",
+        "items": {
+          "iphone_ipad": "iPhone + iPad",
+          "mac_safari": "Mac + Safari",
+          "google_chrome": "Google Chrome",
+          "mozilla_firefox": "Mozilla Firefox",
+          "opera": "Opera",
+          "microsoft_edge": "Microsoft Edge",
+          "arc_browser": "Arc Browser",
+          "brave_browser": "Brave Browser"
+        },
+        "links": {
+          "help_center": "help center",
+          "release_notes": "release notes",
+          "download": "download"
+        }
+      },
+      "support": {
+        "title": "SUPPORT",
+        "items": {
+          "download": "Download",
+          "help_center": "Help Center",
+          "supported_languages": "Supported languages",
+          "request_refund": "Request a refund",
+          "restore_password": "Restore password",
+          "restore_serial_codes": "Restore serial codes",
+          "privacy_policy": "Privacy policy",
+          "student_discounts": "Student discounts"
+        }
+      },
+      "stay_in_touch": {
+        "title": "STAY IN TOUCH",
+        "items": {
+          "contact": "Contact",
+          "twitter": "Twitter",
+          "blog": "Blog"
+        }
+      },
+      "site_language": {
+        "title": "SITE LANGUAGE"
+      },
+      "free_services": {
+        "title": "FREE SERVICES",
+        "items": {
+          "web_translator": "Web translator",
+          "verb_conjugator": "Verb conjugator",
+          "der_die_das_lookup": "Der Die Das Lookup",
+          "usage_examples": "Usage examples"
+        }
+      }
+    },
+    "branding": {
+      "made_by": "MADE BY GIKKEN"
+    }
+  }
+}

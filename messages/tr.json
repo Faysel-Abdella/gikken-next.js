@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "mate",
+    "navigation": {
+      "home": "ana sayfa",
+      "apps": "uygulamalar",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "blog",
+      "help_center": "yardım merkezi",
+      "contact": "iletişim"
+    },
+    "mobile_navigation": {
+      "home": "Ana Sayfa",
+      "apps": "Uygulamalar",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "Blog",
+      "help_center": "Yardım merkezi",
+      "contact": "İletişim"
+    }
+  },
+  "hero": {
+    "headline": "Bayılacağın çeviri uygulaması.",
+    "subheadline": "Mate, iOS, macOS ve favori tarayıcın için harika bir şekilde tasarlandı. 103 dil arasında her şeyi anında çevir.",
+    "cta_button": "ÜCRETSİZ DENE"
+  },
+  "features": {
+    "title": "Özellikler",
+    "items": {
+      "accuracy": {
+        "title": "En yüksek çeviri doğruluğu.",
+        "description": "İnsan çevirmenler dişine göre bir rakip buldu, daha doğrusu Mate'lerini buldu."
+      },
+      "languages": {
+        "title": "103 dil.",
+        "description": "İngilizce, İspanyolca, Fransızca, Almanca, Japonca, Çince, Arapça ve daha tonlarcası. Lüksemburgca bile var. Zulu mu? Evet. <link>Hepsini gör.</link>"
+      },
+      "pronunciation": {
+        "title": "Mükemmel telaffuz.",
+        "description": "Mate çevirileri aksanıyla birlikte doğrudan sana okur. Ayrıca sezgisel fonetik gösterimi sunar."
+      },
+      "sync": {
+        "title": "Platformlar arası senkronizasyon.",
+        "description": "Çeviri geçmişini ve kayıtlı ifadelerini tüm cihazların arasında güncel tut."
+      },
+      "phrasebook": {
+        "title": "Kelime defteri.",
+        "description": "İfadeleri kaydedip kategorilere ayırarak dilleri daha hızlı öğren. Seyahat kopya kağıdın."
+      },
+      "reference": {
+        "title": "Tam kapsamlı referans.",
+        "description": "Ne demek istediğini tam olarak söylemek için kelime cinsiyetlerini gör ve eşanlamlılar arasında gezin."
+      },
+      "dark_mode": {
+        "title": "Karanlık mod.",
+        "description": "Tamamen yerel bir his için ayrı ayrı tasarlanmış aydınlık ve karanlık modlar."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "Ekran Görüntüleri",
+    "ios": "iOS",
+    "mac": "Mac"
+  },
+  "reviews": {
+    "headline": "1.000.000 kullanıcı tarafından en yüksek puan verildi",
+    "subheadline": "Mate'in tasarımı taze kalsa da, çeviri konusunda yeni değil. Pek çok insan Mate'i her gün kullanmayı seviyor.",
+    "proof": "İşte gerçek kullanıcıların Mate hakkında söyledikleri:"
+  },
+  "about": {
+    "title": "Hakkında",
+    "description_1": "<bold>Mate, sürekli çeviri yapanlar için yapıldı.</bold> Elbette iş gören siteler var, ancak hiçbiri Mate kadar derinlemesine entegre değil. Kullanımı çok akıcı. Mate iş akışına o kadar karışır ki, çeviri yaptığını hissetmezsin bile.",
+    "description_2": "<bold>Tarayıcı değiştirmek yok. Kesinti yok. Anında.</bold> Tam menü çubuğunda, sadece bir kısayol uzağında. İhtiyacın olduğunda orada, sonra bir anda yok olur.",
+    "description_3": "<bold>Sorunsuz uzantılarla web sayfalarını tek bir hızlı tıklamayla çevir.</bold> E-postalar, notlar ve mesajlar da çalışır. Metnin olduğu her yerde. Ve iOS'ta Mate çevrimdışı çalışır. İyi görünmek ve hızlı çalışmak için tasarlandı."
+  },
+  "bottom_cta": {
+    "headline": "Mate'i şimdi indir",
+    "subheadline": "Dillerin içinde yaşa ve bunu yaparken iyi görün. Hızlı çalış, net iletişim kur ve tüm büyük platformlarda kelimeler öğren. Bir daha asla çeviride kaybolma!",
+    "cta_button": "ÜCRETSİZ DENE"
+  },
+  "footer": {
+    "columns": {
+      "apps": {
+        "title": "UYGULAMALAR",
+        "items": {
+          "iphone_ipad": "iPhone + iPad",
+          "mac_safari": "Mac + Safari",
+          "google_chrome": "Google Chrome",
+          "mozilla_firefox": "Mozilla Firefox",
+          "opera": "Opera",
+          "microsoft_edge": "Microsoft Edge",
+          "arc_browser": "Arc Browser",
+          "brave_browser": "Brave Browser"
+        },
+        "links": {
+          "help_center": "yardım merkezi",
+          "release_notes": "sürüm notları",
+          "download": "indir"
+        }
+      },
+      "support": {
+        "title": "DESTEK",
+        "items": {
+          "download": "İndir",
+          "help_center": "Yardım Merkezi",
+          "supported_languages": "Desteklenen diller",
+          "request_refund": "İade talep et",
+          "restore_password": "Şifre sıfırla",
+          "restore_serial_codes": "Seri kodlarını kurtar",
+          "privacy_policy": "Gizlilik politikası",
+          "student_discounts": "Öğrenci indirimleri"
+        }
+      },
+      "stay_in_touch": {
+        "title": "İLETİŞİMDE KAL",
+        "items": {
+          "contact": "İletişim",
+          "twitter": "Twitter",
+          "blog": "Blog"
+        }
+      },
+      "site_language": {
+        "title": "SİTE DİLİ"
+      },
+      "free_services": {
+        "title": "ÜCRETSİZ HİZMETLER",
+        "items": {
+          "web_translator": "Web çevirmeni",
+          "verb_conjugator": "Fiil çekimleyicisi",
+          "der_die_das_lookup": "Der Die Das Araması",
+          "usage_examples": "Kullanım örnekleri"
+        }
+      }
+    },
+    "branding": {
+      "made_by": "GIKKEN TARAFINDAN YAPILDI"
+    }
+  }
+}

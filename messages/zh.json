@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "mate",
+    "navigation": {
+      "home": "首页",
+      "apps": "应用",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "博客",
+      "help_center": "帮助中心",
+      "contact": "联系我们"
+    },
+    "mobile_navigation": {
+      "home": "首页",
+      "apps": "应用",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "博客",
+      "help_center": "帮助中心",
+      "contact": "联系我们"
+    }
+  },
+  "hero": {
+    "headline": "你会爱上的翻译应用。",
+    "subheadline": "Mate 专为 iOS、macOS 和你最喜爱的浏览器精心打造。在 103 种语言之间即时翻译任何内容。",
+    "cta_button": "免费试用"
+  },
+  "features": {
+    "title": "功能",
+    "items": {
+      "accuracy": {
+        "title": "超高精度的翻译。",
+        "description": "人类翻译遇到了对手，或者更确切地说，遇到了他们的 Mate（伙伴）。"
+      },
+      "languages": {
+        "title": "103 种语言。",
+        "description": "英语、西班牙语、法语、德语、日语、中文、阿拉伯语等等。甚至还有卢森堡语。祖鲁语？有的。<link>查看全部。</link>"
+      },
+      "pronunciation": {
+        "title": "完美发音。",
+        "description": "Mate 直接为你朗读翻译，包含口音和语调。它还显示直观的音标。"
+      },
+      "sync": {
+        "title": "跨平台同步。",
+        "description": "在你的所有设备之间保持翻译历史和保存的短语同步更新。"
+      },
+      "phrasebook": {
+        "title": "常用语手册。",
+        "description": "通过保存和分类短语来更快地学习语言。你的旅行作弊小抄。"
+      },
+      "reference": {
+        "title": "详尽参考。",
+        "description": "查看词性并滚动浏览同义词，做到词达意，言由衷。"
+      },
+      "dark_mode": {
+        "title": "深色模式。",
+        "description": "专为原生体验而独立设计的浅色和深色模式。"
+      }
+    }
+  },
+  "screenshots": {
+    "title": "截图",
+    "ios": "iOS",
+    "mac": "Mac"
+  },
+  "reviews": {
+    "headline": "百万用户的一致好评",
+    "subheadline": "Mate 的设计虽新颖，但在翻译领域绝非新手。很多人每天都喜欢使用 Mate。",
+    "proof": "以下是真实用户对 Mate 的评价："
+  },
+  "about": {
+    "title": "关于",
+    "description_1": "<bold>Mate 专为需要频繁翻译的人设计。</bold> 虽然有些网站也能完成任务，但没有一个像 Mate 这样深度集成。它的使用体验非常流畅。Mate 融入你的工作流程，让你感觉不到是在翻译。",
+    "description_2": "<bold>无需切换浏览器。没有干扰。即时响应。</bold> 就在你的菜单栏里，只需轻轻一点。随叫随到，用完即走。",
+    "description_3": "<bold>通过无缝扩展插件，一键翻译网页。</bold> 邮件、笔记和消息也同样适用。任何有文字的地方。在 iOS 上，Mate 还能离线工作。它旨在外观精美且运行迅速。"
+  },
+  "bottom_cta": {
+    "headline": "立即获取 Mate",
+    "subheadline": "沉浸在语言中，并且优雅地进行。在所有主要平台上快速工作，清晰沟通，并学习单词。再也不会在翻译中迷失！",
+    "cta_button": "免费试用"
+  },
+  "footer": {
+    "columns": {
+      "apps": {
+        "title": "应用",
+        "items": {
+          "iphone_ipad": "iPhone + iPad",
+          "mac_safari": "Mac + Safari",
+          "google_chrome": "Google Chrome",
+          "mozilla_firefox": "Mozilla Firefox",
+          "opera": "Opera",
+          "microsoft_edge": "Microsoft Edge",
+          "arc_browser": "Arc Browser",
+          "brave_browser": "Brave Browser"
+        },
+        "links": {
+          "help_center": "帮助中心",
+          "release_notes": "更新日志",
+          "download": "下载"
+        }
+      },
+      "support": {
+        "title": "支持",
+        "items": {
+          "download": "下载",
+          "help_center": "帮助中心",
+          "supported_languages": "支持的语言",
+          "request_refund": "申请退款",
+          "restore_password": "重置密码",
+          "restore_serial_codes": "找回序列号",
+          "privacy_policy": "隐私政策",
+          "student_discounts": "学生优惠"
+        }
+      },
+      "stay_in_touch": {
+        "title": "保持联系",
+        "items": {
+          "contact": "联系我们",
+          "twitter": "Twitter",
+          "blog": "博客"
+        }
+      },
+      "site_language": {
+        "title": "网站语言"
+      },
+      "free_services": {
+        "title": "免费服务",
+        "items": {
+          "web_translator": "网页翻译器",
+          "verb_conjugator": "动词变位器",
+          "der_die_das_lookup": "德语词性查询",
+          "usage_examples": "用法示例"
+        }
+      }
+    },
+    "branding": {
+      "made_by": "GIKKEN 制作"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "mate",
+    "navigation": {
+      "home": "головна",
+      "apps": "додатки",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "блог",
+      "help_center": "центр допомоги",
+      "contact": "контакти"
+    },
+    "mobile_navigation": {
+      "home": "Головна",
+      "apps": "Додатки",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "Блог",
+      "help_center": "Центр допомоги",
+      "contact": "Контакти"
+    }
+  },
+  "hero": {
+    "headline": "Перекладач, який вам сподобається.",
+    "subheadline": "Mate чудово створений для iOS, macOS та вашого улюбленого браузера. Миттєво перекладайте будь-що між 103 мовами.",
+    "cta_button": "СПРОБУВАТИ БЕЗКОШТОВНО"
+  },
+  "features": {
+    "title": "Функції",
+    "items": {
+      "accuracy": {
+        "title": "Найвища точність перекладу.",
+        "description": "Живі перекладачі зустріли гідного суперника, або, вірніше, свого Mate."
+      },
+      "languages": {
+        "title": "103 мови.",
+        "description": "Англійська, іспанська, французька, німецька, японська, китайська, арабська та багато інших. Люксембурзька? Є. Зулу? Так. <link>Переглянути всі.</link>"
+      },
+      "pronunciation": {
+        "title": "Ідеальна вимова.",
+        "description": "Mate вимовляє переклади прямо для вас, з акцентом і всіма нюансами. Також відображається інтуїтивна транскрипція."
+      },
+      "sync": {
+        "title": "Синхронізація між платформами.",
+        "description": "Зберігайте історію перекладів та збережені фрази актуальними на всіх ваших пристроях."
+      },
+      "phrasebook": {
+        "title": "Розмовник.",
+        "description": "Вивчайте мови швидше, зберігаючи та категоризуючи фрази. Ваша шпаргалка для подорожей."
+      },
+      "reference": {
+        "title": "Повний довідник.",
+        "description": "Переглядайте рід слів та гортайте синоніми, щоб говорити саме те, що ви маєте на увазі."
+      },
+      "dark_mode": {
+        "title": "Темна тема.",
+        "description": "Світлий і темний режими розроблені індивідуально для повністю нативного відчуття."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "Скріншоти",
+    "ios": "iOS",
+    "mac": "Mac"
+  },
+  "reviews": {
+    "headline": "Високо оцінено 1 000 000 користувачів",
+    "subheadline": "Дизайн Mate залишається свіжим, але це не новачок у перекладах. Багато людей люблять використовувати Mate щодня.",
+    "proof": "Ось що кажуть реальні користувачі про Mate:"
+  },
+  "about": {
+    "title": "Про додаток",
+    "description_1": "<bold>Mate створений для тих, хто перекладає постійно.</bold> Звісно, є сайти, що роблять цю роботу, але жоден з них не інтегрований так глибоко, як Mate. Ним дуже приємно користуватися. Mate вписується у ваш робочий процес так, ніби ви зовсім не відволікаєтесь на переклад.",
+    "description_2": "<bold>Жодного перемикання вкладок. Жодних переривань. Миттєво.</bold> Прямо у рядку меню, всього за один клік. З'являється, коли потрібно, і зникає в одну мить.",
+    "description_3": "<bold>Перекладайте веб-сторінки одним кліком за допомогою безшовних розширень.</bold> Листи, нотатки та повідомлення теж працюють. Скрізь, де є текст. А на iOS Mate працює офлайн. Він створений, щоб гарно виглядати і швидко працювати."
+  },
+  "bottom_cta": {
+    "headline": "Завантажте Mate зараз",
+    "subheadline": "Живіть у мовах і робіть це красиво. Працюйте швидко, спілкуйтеся чітко та вивчайте слова на всіх основних платформах. Забудьте про труднощі перекладу!",
+    "cta_button": "СПРОБУВАТИ БЕЗКОШТОВНО"
+  },
+  "footer": {
+    "columns": {
+      "apps": {
+        "title": "ДОДАТКИ",
+        "items": {
+          "iphone_ipad": "iPhone + iPad",
+          "mac_safari": "Mac + Safari",
+          "google_chrome": "Google Chrome",
+          "mozilla_firefox": "Mozilla Firefox",
+          "opera": "Opera",
+          "microsoft_edge": "Microsoft Edge",
+          "arc_browser": "Arc Browser",
+          "brave_browser": "Brave Browser"
+        },
+        "links": {
+          "help_center": "центр допомоги",
+          "release_notes": "історія версій",
+          "download": "завантажити"
+        }
+      },
+      "support": {
+        "title": "ПІДТРИМКА",
+        "items": {
+          "download": "Завантажити",
+          "help_center": "Центр допомоги",
+          "supported_languages": "Підтримувані мови",
+          "request_refund": "Запитати повернення",
+          "restore_password": "Відновити пароль",
+          "restore_serial_codes": "Відновити серійний код",
+          "privacy_policy": "Політика конфіденційності",
+          "student_discounts": "Знижки для студентів"
+        }
+      },
+      "stay_in_touch": {
+        "title": "НА ЗВ'ЯЗКУ",
+        "items": {
+          "contact": "Контакти",
+          "twitter": "Twitter",
+          "blog": "Блог"
+        }
+      },
+      "site_language": {
+        "title": "МОВА САЙТУ"
+      },
+      "free_services": {
+        "title": "БЕЗКОШТОВНІ СЕРВІСИ",
+        "items": {
+          "web_translator": "Веб-перекладач",
+          "verb_conjugator": "Відмінювання дієслів",
+          "der_die_das_lookup": "Пошук артиклів (Der Die Das)",
+          "usage_examples": "Приклади вживання"
+        }
+      }
+    },
+    "branding": {
+      "made_by": "ЗРОБЛЕНО В GIKKEN"
+    }
+  }
+}

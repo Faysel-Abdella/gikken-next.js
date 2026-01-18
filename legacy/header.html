@@ -1,0 +1,35 @@
+<div style="display: none;" class="all-locales" data-locales="{{#supported_langs}}{{code}},{{/supported_langs}}"></div>
+
+<div class="top-layout">
+    <a aria-label="Mate homepage" href="/mate-translate{{lang_url_tag}}">
+        <!-- Yes, height and width are needed here! For Google. -->
+        <img class="site-logo" height="24" width="{{logo_width}}" srcset="/www_mate/img/elements/logo{{logo_url_postfix}}.png 2x" alt="Mate logo">
+    </a>
+
+    <div class="menu-opener"></div>
+    
+    <div class="menu">
+        <div class="close"></div>
+
+        <a href="/mate-translate{{lang_url_tag}}" class="item">{{menu_home}}</a>
+
+        <div class="dropdown-item">
+            <div class="selector">{{menu_apps}}</div>
+            <div class="dropdown-items">
+                <a href="/mate-translate/mac{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/mac.png" loading="lazy">{{menu_apps_mac}}</a>
+                <a href="/mate-translate/ios{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/ios.png" loading="lazy">{{menu_apps_ios}}</a>
+                <a href="/mate-translate/chrome{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/chrome.svg" loading="lazy">{{chrome_full}}</a>
+                <a href="/mate-translate/firefox{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/firefox.png" loading="lazy">{{firefox_full}}</a>
+                <a href="/mate-translate/opera{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/opera.svg" loading="lazy">{{opera_full}}</a>
+                <a href="/mate-translate/edge{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/edge.png" loading="lazy">{{edge_full}}</a>
+                <a href="/mate-translate/arc{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/arc.svg" loading="lazy">{{arc_full}}</a>
+                <a href="/mate-translate/brave{{lang_url_tag}}" class="dd-item"><img src="https://gikken.co/www_mate/img/logos/brave.png" loading="lazy">{{brave_full}}</a>
+            </div>
+        </div>
+
+        <a href="https://gikken.co/mate-translate/blog/" class="item">{{footer_blog}}</a>
+
+        <a href="https://help.gikken.co/hc/" class="item">{{menu_helpcenter}}</a>
+        <a href="/mate-translate/contact{{lang_url_tag}}" class="item">{{menu_contact}}</a>
+    </div>
+</div>

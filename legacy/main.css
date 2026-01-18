@@ -1,0 +1,594 @@
+.download-buttons {
+    margin-top: 32px;
+}
+
+.download-buttons.big-margin {
+    margin-top: 72px;
+}
+
+.app-store-button.mac-button {
+    background-image: url(/www_mate/img/localized/en/macos-button.svg);
+    width: 190px;
+    background-size: contain;
+    margin-right: 20px;
+}
+
+.app-store-button.mac-button.iosb-cn {
+    background-image: url(/www_mate/img/localized/cn/macos-button.png);
+}
+
+.h2-note, .h2-note a {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.75);
+    font-weight: 700;
+    padding-left: 1px;
+}
+
+ul li, ol li {
+    font-size: 22px;
+}
+
+p.collapsible {
+
+}
+
+p.collapsible .expand {
+    font-family: 'Circe Black', -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    cursor: pointer;
+}
+
+html[lang=cn] p.collapsible .expand {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+    font-weight: 700;
+}
+
+p.collapsible .expand:hover {
+    border-bottom-color: rgba(0, 0, 0, 0.5);
+}
+
+p.collapsible .collapsed {
+    display: none;
+}
+
+.textfield {
+    background: rgba(0, 0, 0, 0.75);
+    color: #FFF;
+    border-radius: 7px;
+    border: none;
+    padding: 16px;
+    font-family: 'Circe', -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    box-sizing: border-box;
+}
+
+html[lang=cn] .textfield {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+}
+
+.textfield::-webkit-input-placeholder {
+    color: rgba(255, 255, 255, 0.95);
+}
+
+label {
+    font-size: 17px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 24px;
+}
+
+.textfield.fullsize {
+    width: 100%;
+    display: block;
+    margin-bottom: 24px;
+}
+
+.textfield.fullsize.no-label {
+    margin-top: 48px;
+}
+
+.cta-button.stretched {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.cta-button.full-width {
+    display: block;
+    margin-bottom: 16px;
+    margin-right: 2px;
+}
+
+.cta-button.half-width {
+    width: calc(50% - 9px);
+    margin-bottom: 16px;
+}
+
+.cta-button.half-width:nth-of-type(odd) {
+    margin-right: 0;
+}
+
+.cta-button-layout {
+    position: relative;
+}
+
+.mac-buy-button-layout {
+    display: inline-block;
+}
+
+.form-note {
+    display: none;
+    font-size: 17px;
+    margin-left: 16px;
+}
+
+.form-note a {
+    color: #000;
+}
+
+/* Two-column info block for up to 800px */
+.col {
+    display: inline-block;
+    width: calc(50% - 27px);
+    margin-top: 24px;
+    vertical-align: top;
+}
+
+.col:first-of-type {
+    margin-right: 48px;
+}
+
+img.fullwidth {
+    width: 100%;
+}
+
+.watch-video-link {
+    border-bottom: none;
+    text-decoration: underline;
+    font-size: 19px;
+    display: inline-flex;
+    align-items: center;
+    color: #000;
+}
+
+.watch-video-link svg {
+    margin-right: 10px;
+}
+
+.integration-block {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.45);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border-radius: 7px;
+    padding: 24px;
+    box-sizing: border-box;
+    width: calc(50% - 10px);
+}
+
+.integration-block.full-width {
+    margin-top: 16px; 
+    width: 100%;
+}
+
+.integration-block:nth-of-type(1) {
+    margin-right: 14px;
+}
+
+.integration-block img {
+    height: 32px;
+    margin-bottom: 16px;
+}
+
+.gikken-logo {
+    animation: gikken-logo-color-change 1s infinite alternate;
+}
+
+@keyframes gikken-logo-color-change {
+    to {
+        filter: invert(15%) sepia(100%) saturate(3256%) hue-rotate(254deg) brightness(99%) contrast(132%);
+    }
+    
+    from {
+        filter: invert(0%) sepia(1%) saturate(7497%) hue-rotate(356deg) brightness(109%) contrast(97%);
+    }
+}
+
+.pop-up-form {
+    background-color: rgba(255, 255, 255, 0.45);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    padding: 24px;
+    display: none;
+    border-radius: 7px;
+    margin-top: 64px;
+}
+
+.pop-up-form .form-note {
+    display: block;
+    margin-left: 2px;
+    margin-top: 24px;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+}
+          
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.preview-images {
+    margin-top: 64px;
+    position: relative;
+}
+
+.preview-images .safari-first {
+    position: absolute;
+    bottom: -10%;
+    left: 35%;
+    z-index: 3;
+}
+
+.preview-images .mac-fullpage-first {
+    position: absolute;
+}
+
+.preview-images .deviceless-iphone-first {
+    position: absolute;
+    z-index: 2;
+    bottom: 4%;
+    right: 0;
+}
+
+.preview-images .iphone-first {
+    position: absolute;
+    right: 0;
+    top: -5%;
+}
+
+.features {
+    margin-top: 24px;
+}
+
+.feature {
+    display: flex;
+    margin-bottom: 24px;
+    align-items: center;
+}
+
+.feature:last-of-type {
+    margin-bottom: 0;
+}
+
+.feature img {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+}
+
+.feature .meta {
+    display: inline-block;
+    width: calc(100% - 64px - 24px);
+    margin-left: 24px;
+    font-size: 22px;
+}
+
+.feature .meta a {
+    color: #000;
+}
+
+.tabber {
+    margin: 24px 0 32px;
+}
+
+.tabber .tabber-selector {
+    padding: 10px 24px;
+    border-radius: 48px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #FFF;
+    background: #000;
+    display: inline-block;
+    margin-right: 16px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    cursor: pointer;
+}
+
+.tabber .tabber-selector:last-of-type {
+    margin-right: 0;
+}
+
+.tabber .tabber-selector.active {
+    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.25);
+}
+
+.tab {
+    display: none;
+}
+
+.tab.gallery {
+    position: relative;
+    align-items: flex-start;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 24px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: 24px;
+    padding-bottom: 16px;
+}
+
+.tab.gallery .image {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.tab.gallery.with-captions .image {
+    background: rgba(173, 247, 255, 0.75);
+    padding: 24px;
+    border-radius: 11px;
+}
+
+.tab.gallery .image img {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    max-height: 600px;
+}
+
+.tab.gallery .image .caption {
+    margin-top: 16px;
+    font-size: 17px;
+    text-align: center;
+    color: #2b2b2b;
+}
+
+.instructions {
+    
+}
+
+.instructions li {
+    margin-bottom: 16px;
+}
+
+.instructions li p.instruction-subcomment {
+    font-size: 16px;
+    margin-top: 5px;
+    color: rgba(0 0 0 / 0.75);
+}
+
+.reviews {
+    margin-top: 32px;
+    width: 1680px;
+    position: relative;
+    left: -440px;
+    display: grid;
+    align-items: flex-start;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 24px;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.review {
+    background: rgba(173, 247, 255, 0.75);
+    padding: 24px;
+    border-radius: 22px;
+    width: 368px;
+}
+
+.review .platform {
+    margin-bottom: 10px;
+    font-size: 11px;
+    opacity: 0.75;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.review .stars {
+    background-image: url(/www_mate/img/elements/5-stars.png);
+    width: 180px;
+    height: 32px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.review .stars.s-4 {
+    background-image: url(/www_mate/img/elements/4-stars.png);
+}
+
+.review .title {
+    font-size: 19px;
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+.review .text {
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.review .author {
+    margin-top: 24px;
+    opacity: 0.75;
+}
+
+.review .author a {
+    color: #000;
+}
+
+.for-china {
+    display: none;
+}
+
+.finished-guide {
+    display: none;
+    margin: 0;
+    font-size: 22px;
+    margin-top: 20px;
+    word-break: break-word;
+}
+
+@media screen and (max-width: 800px) {
+    .preview-images .mac-first {
+        width: 60%;
+        left: 40%;
+        position: absolute;
+        top: -5%;
+    }
+
+    .preview-images .safari-first {
+        width: 75%;
+        right: -3%;
+        bottom: -5%;
+        left: unset;
+    }
+
+    .preview-images .deviceless-iphone-first {
+        width: 55%;
+        bottom: 0;
+        z-index: 10;
+        position: relative;
+        left: -1px;
+    }
+    
+    .preview-images.index .deviceless-iphone-first {
+        right: calc(-2em - 4px);
+        position: absolute;
+        top: 6%;
+        left: unset;
+    }
+
+    .preview-images .mac-first {
+        width: 100%;
+        left: 0;
+        top: 0;
+        position: initial;
+    }
+
+    .preview-images .safari-first {
+        width: 75%;
+        left: -5%;
+        bottom: -15%;
+    }
+    
+    .preview-images.index .safari-first {
+        left: calc(-2em - 4px);
+        top: 44%;
+    }
+
+    .preview-images .mac-fullpage-first {
+        right: -5%;
+        bottom: -19%;
+        width: 50%;
+        z-index: 3;
+    }
+
+    .preview-images .ipad-first {
+        display: none;
+    }
+
+    .preview-images .iphone-first {
+        position: initial;
+        width: 100%;
+    }
+
+    .cta-button {
+        width: 100%;
+    }
+    
+    .mac-buy-button-layout {
+        display: block;
+    }
+
+    .download-buttons .cta-button:nth-of-type(n + 2) {
+        margin-top: 16px;
+    }
+
+    .cta-button.half-width {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    .cta-button.stretched {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    
+    .integration-block {
+        display: block;
+        width: 100%;
+    }
+    
+    .integration-block:nth-of-type(1) {
+        margin-right: 0;
+        margin-bottom: 2em;
+    }
+    
+    .integration-block.full-width {
+        margin-top: 2em;
+    }
+
+    .review {
+        width: 280px;
+    }
+
+    .tabber .tabber-selector {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .tab.gallery, .reviews {
+        width: calc(100% + 2em);
+        left: -2em;
+        padding-left: 2em;
+    }
+    
+    .col {
+        display: block;
+        width: 100%;
+    }
+    
+    .col:first-of-type {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    p {
+        font-size: 19px;
+    }
+
+    .feature {
+        display: block;
+        margin-bottom: 32px;
+    }
+
+    .feature img {
+        width: 40px;
+        height: 40px;
+        display: block;
+    }
+
+    .feature .meta {
+        display: block;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 10px;
+        font-size: 19px;
+    }
+
+    .review {
+        width: 200px;
+    }
+}

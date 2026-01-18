@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "mate",
+    "navigation": {
+      "home": "inicio",
+      "apps": "apps",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "blog",
+      "help_center": "ayuda",
+      "contact": "contacto"
+    },
+    "mobile_navigation": {
+      "home": "Inicio",
+      "apps": "Apps",
+      "apps_list": {
+        "mac_safari": "Mac + Safari",
+        "iphone_ipad": "iPhone + iPad",
+        "google_chrome": "Google Chrome",
+        "mozilla_firefox": "Mozilla Firefox",
+        "opera": "Opera",
+        "microsoft_edge": "Microsoft Edge",
+        "arc_browser": "Arc Browser",
+        "brave_browser": "Brave Browser"
+      },
+      "blog": "Blog",
+      "help_center": "Ayuda",
+      "contact": "Contacto"
+    }
+  },
+  "hero": {
+    "headline": "La app de traducción que te encantará.",
+    "subheadline": "Mate está bellamente diseñada para iOS, macOS y tu navegador favorito. Traduce instantáneamente cualquier cosa entre 103 idiomas.",
+    "cta_button": "PRUÉBALO GRATIS"
+  },
+  "features": {
+    "title": "Funciones",
+    "items": {
+      "accuracy": {
+        "title": "Máxima precisión de traducción.",
+        "description": "Los traductores humanos han encontrado su igual, o mejor dicho, a su Mate."
+      },
+      "languages": {
+        "title": "103 idiomas.",
+        "description": "Inglés, español, francés, alemán, japonés, chino, árabe y toneladas más. Incluso luxemburgués. ¿Zulú? Sí. <link>Ver todos.</link>"
+      },
+      "pronunciation": {
+        "title": "Pronunciación perfecta.",
+        "description": "Mate te dice las traducciones directamente, con acento y todo. También muestra fonética intuitiva."
+      },
+      "sync": {
+        "title": "Sincronización multiplataforma.",
+        "description": "Mantén tu historial de traducción y frases guardadas actualizados entre todos tus dispositivos."
+      },
+      "phrasebook": {
+        "title": "Guía de frases.",
+        "description": "Aprende idiomas más rápido guardando y categorizando frases. Tu chuleta para viajar."
+      },
+      "reference": {
+        "title": "Referencia completa.",
+        "description": "Mira los géneros de las palabras y desplázate por los sinónimos para decir lo que quieres decir y decir lo que piensas."
+      },
+      "dark_mode": {
+        "title": "Modo oscuro.",
+        "description": "Modos claro y oscuro diseñados individualmente para una sensación totalmente nativa."
+      }
+    }
+  },
+  "screenshots": {
+    "title": "Capturas de pantalla",
+    "ios": "iOS",
+    "mac": "Mac"
+  },
+  "reviews": {
+    "headline": "Mejor valorado por 1.000.000 de usuarios",
+    "subheadline": "El diseño de Mate se mantiene fresco, pero no es nuevo en la traducción. A mucha gente le encanta usar Mate todos los días.",
+    "proof": "Esto es lo que dicen los usuarios reales sobre Mate:"
+  },
+  "about": {
+    "title": "Acerca de",
+    "description_1": "<bold>Mate está hecho para aquellos que traducen todo el tiempo.</bold> Claro que hay sitios que hacen el trabajo, pero ninguno está tan profundamente integrado como Mate. Es muy fluido de usar. Mate se mezcla en tu flujo de trabajo para que sientas que no estás traduciendo en absoluto.",
+    "description_2": "<bold>Sin cambiar de navegador. Sin interrupciones. Es instantáneo.</bold> Justo ahí en tu barra de menú, a solo un atajo de distancia. Está ahí cuando lo necesitas y luego desaparece en un instante.",
+    "description_3": "<bold>Traduce páginas web en un clic rápido con extensiones perfectas.</bold> Los correos electrónicos, notas y mensajes también funcionan. Dondequiera que haya texto. Y en iOS, Mate funciona sin conexión. Está construido para verse bien y trabajar rápido."
+  },
+  "bottom_cta": {
+    "headline": "Obtén Mate ahora",
+    "subheadline": "Vive en idiomas y luce bien haciéndolo. Trabaja rápido, comunícate claramente y aprende palabras en todas las plataformas principales. ¡Nunca más te pierdas en la traducción!",
+    "cta_button": "PRUÉBALO GRATIS"
+  },
+  "footer": {
+    "columns": {
+      "apps": {
+        "title": "APPS",
+        "items": {
+          "iphone_ipad": "iPhone + iPad",
+          "mac_safari": "Mac + Safari",
+          "google_chrome": "Google Chrome",
+          "mozilla_firefox": "Mozilla Firefox",
+          "opera": "Opera",
+          "microsoft_edge": "Microsoft Edge",
+          "arc_browser": "Arc Browser",
+          "brave_browser": "Brave Browser"
+        },
+        "links": {
+          "help_center": "centro de ayuda",
+          "release_notes": "notas de la versión",
+          "download": "descargar"
+        }
+      },
+      "support": {
+        "title": "SOPORTE",
+        "items": {
+          "download": "Descargar",
+          "help_center": "Centro de Ayuda",
+          "supported_languages": "Idiomas soportados",
+          "request_refund": "Solicitar reembolso",
+          "restore_password": "Restaurar contraseña",
+          "restore_serial_codes": "Restaurar códigos de serie",
+          "privacy_policy": "Política de privacidad",
+          "student_discounts": "Descuentos para estudiantes"
+        }
+      },
+      "stay_in_touch": {
+        "title": "MANTENTE EN CONTACTO",
+        "items": {
+          "contact": "Contacto",
+          "twitter": "Twitter",
+          "blog": "Blog"
+        }
+      },
+      "site_language": {
+        "title": "IDIOMA DEL SITIO"
+      },
+      "free_services": {
+        "title": "SERVICIOS GRATUITOS",
+        "items": {
+          "web_translator": "Traductor web",
+          "verb_conjugator": "Conjugador de verbos",
+          "der_die_das_lookup": "Búsqueda Der Die Das",
+          "usage_examples": "Ejemplos de uso"
+        }
+      }
+    },
+    "branding": {
+      "made_by": "HECHO POR GIKKEN"
+    }
+  }
+}
